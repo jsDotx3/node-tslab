@@ -1,0 +1,10 @@
+{
+  "restartable": "rs",
+  "ignore": [".git", "node_modules/**/node_modules"],
+  "verbose": true,
+  "execMap": {
+    "ts": "ts-node-dev -r tsconfig-paths/register --no-notify --respawn --transpileOnly"
+  },
+  "watch": ["src/"],
+  "ext": "js,json,ts"
+}
