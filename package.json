@@ -15,7 +15,7 @@
     "octopus-express": "^1.0.0",
     "promised-router": "^2.2.0",
     "tsconfig-paths": "^3.9.0",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.2.25",
     "typeorm-express-query-builder": "^1.2.0",
     "typescript": "^3.8.3"
   },
